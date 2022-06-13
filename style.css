@@ -1,0 +1,33 @@
+h2 {
+    color: red;
+}
+
+.subtitle {
+    color: blue;
+}
+
+#services {
+    color: green;
+}
+
+/*li:only-child  {
+    color: brown;
+}*/
+
+td  {
+    color: hotpink;
+}
+
+/*h2 + a {
+    color: black;
+}
+
+textarea ~ button {
+    color: lightyellow;
+}*/
+
+ul > li {
+    color: chocolate;
+}
+
+
